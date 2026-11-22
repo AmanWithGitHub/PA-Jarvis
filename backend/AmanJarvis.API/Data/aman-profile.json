@@ -1,0 +1,272 @@
+
+{
+  "identity": {
+    "full_name": "Aman Saini",
+    "phone": "+91-9999999999",
+    "email": "amansaini10092003@gmail.com",
+    "location": "Delhi, India",
+    "professional_identity": "Software Developer / Full Stack Developer",
+    "current_career_stage": "MCA Graduate seeking full-time software development opportunities",
+    "primary_interests": [
+      "Software Development",
+      "Artificial Intelligence",
+      "Automation",
+      "Full Stack Development",
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "professional_links": {
+      "github": "https://github.com/AmanWithGitHub",
+      "linkedin": "https://linkedin.com/in/aman-saini-10/"
+    },
+    "preferred_communication": "Simple, concise, natural and professional"
+  },
+  "personal_journey": {
+    "born_in": "Rajasthan, India",
+    "brought_up_in": "Rewari, Haryana",
+    "lived_in_rewari_until": "Completing Class 12",
+    "moved_to_delhi": "2020 for college",
+    "time_in_delhi": "Approximately six years for education and career development"
+  },
+  "school_and_robotics": {
+    "experience": "During Class 12, gained exposure to Arduino and robotics",
+    "competition": "Participated in a state-level robotics competition",
+    "achievement": "Secured 3rd position in a district-level robotics competition"
+  },
+  "education": {
+    "master_of_computer_applications": {
+      "institution": "Banarsidas Chandiwala Institute of Information Technology (BCIIT)",
+      "university": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+      "duration": "2024–2026",
+      "completion": "June 2026",
+      "cgpa": "9.05"
+    },
+    "bachelor_of_science_computer_science": {
+      "institution": "Atma Ram Sanatan Dharma College (ARSD College)",
+      "university": "University of Delhi",
+      "duration": "2020–2023",
+      "cgpa": "8.303",
+      "institution_ranking_claim_supplied_by_aman": "NIRF All India Rank 5"
+    },
+    "class_12": {
+      "institution": "Government Senior Secondary School",
+      "board": "HBSE",
+      "year": "2020",
+      "percentage": "82%"
+    }
+  },
+  "professional_experience": {
+    "techpro_compsoft": {
+      "company": "TechPro Compsoft Pvt Ltd",
+      "location": "Delhi, India",
+      "position": "Software Developer Trainee",
+      "joining_date": "February 2026",
+      "training_completion": "September 2026",
+      "duration": "Approximately 8 months",
+      "technologies": [
+        "C#",
+        ".NET",
+        ".NET Minimal APIs",
+        "SQL Server",
+        "ADO.NET",
+        "Entity Framework Core",
+        "React.js",
+        "Angular"
+      ],
+      "responsibilities": [
+        "Developed and maintained web applications using C#, .NET and .NET Minimal APIs",
+        "Developed REST APIs and implemented CRUD operations using ADO.NET and SQL Server",
+        "Worked on authentication, authorization and role-based access control",
+        "Integrated frontend and backend application components",
+        "Worked on SQL Server database design, queries and data management",
+        "Gained practical experience in application development and API integration"
+      ],
+      "mentoring": "Helped guide approximately 6–7 trainees on C# fundamentals and AI/ML topics"
+    },
+    "360_degree_cloud_pnb_assignment": {
+      "company": "360 Degree Cloud",
+      "client": "Punjab National Bank (PNB)",
+      "joined_through": "360 Degree Cloud for a PNB client assignment",
+      "last_working_day": "8 October 2026",
+      "exposure": [
+        "SQL queries",
+        "SQL joins",
+        "Dashboard user management",
+        "Reporting",
+        "Banking support operations"
+      ],
+      "reason_discontinued": "The assignment was not aligned with the intended software development career direction",
+      "role_note": "This was not a full-stack development role"
+    }
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "C#",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Java (academic exposure)"
+    ],
+    "frontend": [
+      "React.js",
+      "Angular",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks_and_backend": [
+      ".NET",
+      ".NET 8 Minimal APIs",
+      "ASP.NET Core Web API",
+      "ASP.NET",
+      "Blazor WebAssembly",
+      "Entity Framework Core"
+    ],
+    "web_and_api": [
+      "REST APIs",
+      "JSON",
+      "API Development"
+    ],
+    "database": [
+      "Microsoft SQL Server",
+      "MongoDB",
+      "Firebase Firestore (project exposure)"
+    ],
+    "database_technologies": [
+      "ADO.NET",
+      "Entity Framework",
+      "Entity Framework Core",
+      "LINQ",
+      "SQL"
+    ],
+    "ai_and_generative_ai": [
+      "LLMs",
+      "Generative AI",
+      "RAG",
+      "Prompt Engineering",
+      "AI Agents",
+      "Agentic AI Workflows",
+      "AI Automation",
+      "Groq API"
+    ],
+    "software_concepts": [
+      "Object-Oriented Programming",
+      "CRUD Operations",
+      "Authentication",
+      "Authorization",
+      "Role-Based Access Control",
+      "ORM"
+    ],
+    "tools_and_platforms": [
+      "Visual Studio",
+      "SQL Server Management Studio",
+      "Git",
+      "GitHub",
+      "IIS",
+      "AWS EC2",
+      "AWS S3",
+      "AWS RDS",
+      "Docker"
+    ]
+  },
+  "projects": {
+    "autonomous_ai_bidding_agent": {
+      "type": "Internal Project",
+      "duration": "February 2026 – April 2026",
+      "technology": [
+        "C#",
+        ".NET 8 Minimal APIs",
+        "Blazor WebAssembly",
+        "MongoDB",
+        "Groq AI",
+        "LLMs",
+        "JavaScript Interop"
+      ],
+      "description": "AI-powered web application designed to automate repetitive freelance proposal generation and bidding workflows.",
+      "features_and_contributions": [
+        "Built a .NET 8 Minimal API backend and Blazor WebAssembly frontend",
+        "Integrated Groq AI and LLM APIs to generate proposal drafts",
+        "Automated repetitive freelance bidding workflows",
+        "Worked with RAG concepts and AI agent workflows",
+        "Used MongoDB for application data and analytics",
+        "Developed backend APIs for bidding operations",
+        "Used JavaScript Interop to connect browser functionality with application workflows"
+      ],
+      "reported_process_improvement": "Reduced a targeted manual bidding process from approximately 45 minutes to 10 seconds",
+      "real_world_usage": "Used by a team in a real workflow"
+    },
+    "enterprise_e_commerce_platform": {
+      "duration": "April 2026 – June 2026",
+      "technology": [
+        "C#",
+        ".NET",
+        "ADO.NET",
+        "SQL Server",
+        "REST APIs"
+      ],
+      "description": "E-commerce web application with user and admin functionalities, product management and order-related operations.",
+      "features_and_contributions": [
+        "Developed RESTful APIs using C# and .NET",
+        "Implemented CRUD operations for users, products and orders",
+        "Integrated SQL Server for application data management",
+        "Implemented user authentication and role-based access",
+        "Created separate user and admin functionalities",
+        "Developed REST endpoints for products, users and order operations",
+        "Used SqlConnection, SqlCommand and SqlDataReader",
+        "Implemented parameterized SQL queries"
+      ]
+    },
+    "edubuddy": {
+      "status": "Development status not specified",
+      "description": "Educational platform for school students with learning journeys, academic dashboards, AI tutoring concepts and class-wise experiences for Classes 2–12.",
+      "technology": [
+        "Angular",
+        "ASP.NET Core .NET 10",
+        "Entity Framework Core",
+        "SQL Server",
+        "Groq AI"
+      ]
+    },
+    "smart_college_app": {
+      "status": "Development status not specified",
+      "description": "Android-based college management project with student, faculty and admin roles, temporary QR-based attendance and GPS geofencing attendance concept.",
+      "technology": [
+        "Java",
+        "Firebase Firestore"
+      ]
+    },
+    "techyugaai": {
+      "status": "Planned concept",
+      "description": "AI-powered productivity and automation concept with planned browser extension and WhatsApp, LinkedIn and email tracking experiences.",
+      "planned_technology": [
+        "Groq API",
+        "MongoDB Atlas"
+      ]
+    }
+  },
+  "career_objectives": [
+    "Seeking full-time software development opportunities",
+    "Interested in React, .NET and full-stack development",
+    "Interested in Generative AI, RAG, intelligent agents and automation",
+    "Open to learning new technologies",
+    "Interested in practical engineering and long-term career growth"
+  ],
+  "communication_style": [
+    "Use simple and natural language",
+    "Keep responses concise by default",
+    "Maintain a professional but friendly tone",
+    "Avoid exaggerated achievements",
+    "Never fabricate personal information or experience",
+    "Explain technical concepts with practical examples when requested"
+  ],
+  "personal_ai_assistant_instructions": {
+    "assistant_name": "JARVIS",
+    "represents": "Aman Saini",
+    "greeting": "Hello! I'm JARVIS, the personal AI assistant of Aman Saini. How can I help you today?",
+    "personal_information_rule": "Use the complete profile as personal context. Do not invent missing personal details.",
+    "unknown_information_response": "I don't have that information about Aman yet.",
+    "general_question_rule": "Answer general knowledge and technical questions normally without unnecessarily mentioning Aman.",
+    "mixed_question_rule": "Combine relevant personal context with general knowledge when a question requires both.",
+    "response_style": "Simple, concise, natural and helpful"
+  }
+}
